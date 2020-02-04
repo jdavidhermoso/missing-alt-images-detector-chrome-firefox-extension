@@ -1,0 +1,4 @@
+body.check__page img:not([alt]) {
+    border: 5px solid red;
+    filter: blur(5px);
+}
